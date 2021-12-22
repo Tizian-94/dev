@@ -1,0 +1,7 @@
+{
+
+    "git.enabled": true,
+
+    "git.path": "C:\Program Files\Git\git.exe"
+    
+}
