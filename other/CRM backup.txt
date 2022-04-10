@@ -1,0 +1,1995 @@
+++++++++++++++++++++++++++++++++++++++++++++++
+KAMP KOLPA
+Kamp Kolpa
+sikolp
+60
+180
+1
+-quiet
+-riverside (Kolpa river)
+-restaurant
+-eco camping
+
+-sanitary complaints
+Family and kids friendly
+http://www.kamp-kolpa.si/
+Vinica
+SI
+45.458354, 15.253548
+All Year
+
+++++++++++++++++++++++++++++++++++++++++++++++
+CAMPING BELA KRAJINA - PODZEMLJ
+Camping Bela Krajina – Podzemelj
+sibkraj
+161
+483
+3.5
+-riverside (Kolpa river)
+-quiet
+-restaurant
+-clean
+-eco camping
+
+-parking 10EUR
+-more than few staff attitude complaints
+Other
+http://www.kamp-podzemelj.si/
+Gradac
+SI
+45.6042157587594, 15.276304846847646
+All year
+++++++++++++++++++++++++++++++++++++++++++++++
+KAMP VELEBIT
+Kamp Velebit
+hrvelt
+https://www.kampvelebit.com/
+MAP QUALITY GOOD
+MAP LINK https://www.kampvelebit.com/camp-map/
+Karlobag
+HR
+44.523963, 15.180862
+All year
+In nature
+++++++++++++++++++++++++++++++++++++++++++++++
+CAMP JEZERO KOCEVSKO
+Camp Jezero Kocevsko
+sijkoc
+19
+60
+?
+-glamping 
+-lakeside (Kočevsko)
+-town only 1 km away
+-cheap
+-eco camping
+
+-camp still in development
+-complaints about staff not cleaning
+Glamping
+https://www.kocevsko.com/sl/poi/camp-jezero/
+Kočevje
+SI
+45.64434451621637, 14.8706410781819
+Summer only
+++++++++++++++++++++++++++++++++++++++++++++++
+KAMP KOREN
+Kamp Koren
+sikore
+102
+306
+4
+-near popular hiking trail
+-restaurant
+-quiet
+-near river Soca
+-near town of Kobarid
+-Sauna
+-gym
+-eco camping
+
+-bad wifi
+-poor terrain for a pitch in some locations (pebbles)
+Glamping
+https://www.kamp-koren.si/
+Kobarid
+SI
+46.249979, 13.587055
+All year
+++++++++++++++++++++++++++++++++++++++++++++++
+CAMP KORITA
+Camp Korita
+sikori
+25
+75
+?
+-riverside
+-eco camping
+-restaurant
+-clean
+-eco camping
+
+-no wifi
+-expensive
+-shower water isnt heated prperly
+-noisy for a remote location
+Small camps
+https://www.camp-korita.com/
+Soča
+SI
+46.341135, 13.684714
+All year
++++++++++++++++++++++++++++++++++++++
+CAMPING OLYMPIA
+Camping Olympia
+itcoly
+329
+987
+5
+-large pitch sites
+-clean
+-sauna
+-drying room
+-eco camping
+
+-crowded
+-expensive
+-difficult terrain for setting up camp
+Glamping
+https://www.camping-olympia.com/en/
+BZ (Bolzano)
+IT
+46.734419062816556, 12.193663714345156
+All year
++++++++++++++++++++++++++++++++++++++
+NATURLICH HELL CAMPING & APARTHOTEL
+Natürlich Hell Camping & Aparthotel
+athell
+216
+648
+5
+-clean
+-restaurant
+-pools
+-activities
+-eco camping
+
+-overcrowded especially during high season
+-expensive
+-noisy
+Family and kids friendly
+https://www.hell-tirol.at/
+Fügen
+AT
+47.359670736296216, 11.851943325966518
+All year
++++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ GRUBHOF GMBH
+Campingplatz Grubhof GmbH
+atgrub
+217
+651
+12
+-clean
+-shop
+-restaurant
+-animation
+-eco camping
+
+-humidity is very high
+-noisy
+Glamping
+https://www.grubhof.com/en/
+Martin bei Lofer
+AT
+47.574122202358446, 12.706492869220938
+all year except 22 NOV - 12 DEC
++++++++++++++++++++++++++++++++++++++
+CAMPING-RESORT ALLWEGLEHEN
+Familien Aktiv Campingplatz Allweglehen
+deallw
+163
+489
+6
+-not very crowded
+-pool for children and adults
+-clean
+-quiet
+-restaurant
+-eco camping
+
+-only gravel pitches
+-small pitches
+-limited english understanding by the staff
+Family and kids friendly
+https://www.allweglehen.de/en/
+Berchtesgaden
+DE
+47.647341, 13.039730
+All year
++++++++++++++++++++++++++++++++++++++
+CAMPING UND FREIZEITANLAGE AU AN DER DONAU
+Camping- und Freizeitanlage Au an der Donau
+atdona
+62
+186
+2.1
+-sport focused
+-popular with bikers
+-shade
+-clean
+-riverside and beach
+-free wifi
+-quiet
+-eco camping
+
+-crowded
+-expensive
+Sport & Activities
+https://www.camping-audonau.at/
+Naarn im Machland
+AT
+48.227731, 14.579259
+All year
++++++++++++++++++++++++++++++++++++++
+NATURCAMPINGPARK ISARHORN
+Naturcampingpark Isarhorn-Mittenwald
+deisar
+295
+885
+7.5
+-grocery store
+-restaurant
+-good prices
+-spacious pitches
+-good sanitary
+-clean
+-eco camping
+
+-gravel terrain
+-potholes
+-limited english speaking staff
+In nature camping
+https://www.camping-isarhorn.de/
+Mittenwald
+DE
+47.472746, 11.276206
+All year
++++++++++++++++++++++++++++++++++++++
+CAMPING BRUGGER AM RIEGSEE
+Camping Brugger am Riegsee
+debrug
+420
+1260
+6
+-food kiosk
+-breakfast
+-sup board/paddle boat rental
+-lakeside
+-modern sanitary
+-quiet
+-eco camping
+
+-lots of waste/cleanliness issues
+-poor terrain maintenance
+-no wifi
+Family and kids friendly
+https://camping-brugger.de/
+Spatzenhausen
+DE
+47.706434, 11.217886
+Season only
++++++++++++++++++++++++++++++++++++++
+TERRASSEN-CAMPING AM RICHTERBICHL
+Terrassen-Camping am Richterbichl
+deterr
+104
+312
+1.2
+-restaurant
+-quiet
+-clean sanitary
+-breakfast
+-eco camping
+
+-camp owner complaints
+-not many activities
+Other
+https://www.camping-rottenbuch.de/de/
+Rottenbuch
+DE
+47.72700708308614, 10.966438916974296
+Undisclosed
++++++++++++++++++++++++++++++++++++++
+VIA CLAUDIA CAMPING
+Via Claudia Camping
+declau
+670
+2010
+18
+-incredible infrastructure
+-dedicated dog showers
+-cultural heritage in the zone
+-clean
+-modern sanitary
+-playgrounds
+-high rating out of 1600 reviews
+-eco camping
+
+-little to no shade
+-expensive
+Glamping
+https://www.via-claudia-camping.de/
+Lechbruck am See
+DE
+47.71191077911415, 10.818657716844491
+Undisclosed
++++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ KONIGSDORF AM 
+Campingplatz Königsdorf Am Bibisee
+370
+1110
+8.6
+-quiet
+-large and clean sanitary
+-grocery store
+-large pitches
+-lakeside
+-eco camping
+
+-restaurant food and staff complaints
+Family and children friendly
+https://camping-koenigsdorf.de/
+Königsdorf
+DE
+47.837679952925356, 11.468729556064437
+All year except 1.11 - 3.12
++++++++++++++++++++++++++++++++++++++
+CAMPING ZEH AM SEE
+Camping Zeh am See
+113
+339
+1.7
+-good sanitary
+-clean
+-quiet
+-lakeside
+-eco camping
+
+-assigned pitches
+-muddy terrain when it rains
+Small campsite
+https://www.camping-zeh-am-see.de/welcome-in-the-allgaeu-region.html
+Waltenhofen/Allgäu
+De
+47.630107, 10.245715
+All year
++++++++++++++++++++++++++++++++++++++
+WALDCAMPING BATMUND
+Waldcamping Batmund
+atwald
+-good sanitary
+-modern
+-quiet
+-lots of activities
+-eco camping
+
+family and kids friendly
+https://www.waldcamping-batmund.com/
+St. Gallenkirch
+AT
+47.02995913606501, 9.956895370671855
+All year
++++++++++++++++++++++++++++++++++++++
+PANORAMACAMPING SONNENBERG CAMPINGPLATZ
+Panoramacamping Sonnenberg Campingplatz
+atpano
+117
+351
+1.9
+-pool
+-play area for children
+-clean
+-modern
+-good sanitary
+-kind staff
+-eco camping
+
+Family and kids friendly
+https://www.camping-sonnenberg.com/
+Nüziders
+AT
+47.17008448159389, 9.80767767751571
+All year
++++++++++++++++++++++++++++++++++++++
+PARK-CAMPING LINDAU
+Park-Camping Lindau
+atpark
+214
+642
+5
+-lakeside
+-restaurant
+-goood website
+-store
+-webcam livestream
+-eco camping
+
+Glamping
+https://www.park-camping.de/en/
+Lindau
+AT
+???.???
+from 1.4 - 17.10
++++++++++++++++++++++++++++++++++++++
+CAMPING MEXICO
+Camping Mexico
+atmexi
+40
+120
+0.6
+
+Small campsite no website
+Voralberg
+AT
+???.???
+unknown
++++++++++++++++++++++++++++++++++++++
+CAMPING SALZMANN-ROHRSPITZ
+Camping Salzman-Rohrspitz
+atsalz
+182
+546
+2.5
+-yachting enthusiast camp
+-food kiosk
+-restaurant
+-quiet
+-dog friendly
+-reasonable prices
+-eco camping
+
+-restaurant complaints
+-staff complaints
+https://www.salzmann.at/
+Fußach
+AT
+47.49750927454969, 9.630999235574892
+summer only
++++++++++++++++++++++++++++++++++++++
+CAP-ROTACH
+CAP-Rotach
+derota
+107
+321
+1
+-reasonable prices
+-lakeside
+-clean
+-good sanitary
+-eco camping
+
+-etremely crowded
+-noisy
+-no option for phone charging
+-no option for freezer
+https://www.cap-rotach.de/en/home/
+Friedrichshafen
+DE
+47.6499243348378, 9.496344651422103
+29.5-late october
++++++++++++++++++++++++++++++++++++++
+CAMPING FRIEDRICHSAFEN - FISCHBACH
+Campingplatz Fischbach
+defisc
+169
+507
+2.1
+-beach
+-lakeside
+-good sanitary infrastructure
+-quiet
+-clean
+-breakfast service
+-eco camping
+
+-restaurant complaints
+-cash payment only
+-crowded
+-poor website
+http://www.camping-fischbach.de/
+Friedrichshafen
+DE
+47.66932361303953, 9.403941931166763
+unknown
++++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ SCHLOSS HELMSDORF
+Campingplatz Schloss Helmsdorf
+desche
+329
+987
+6.5
+-harbor camp
+-boat trailers available
+-lakeside
+-restaurant compliments
+-360 view of the camp
+-eco camping
+
+-expensive
+-pitches too close to one another
+-small pitches
+in nature/beach
+https://www.schlosshelmsdorf.de/en/
+Immenstaad am Bodensee
+DE
+47.66524489976621, 9.378537351968037
+unknown
++++++++++++++++++++++++++++++++++++++
+CAMPING BELLA SARDINIA
+Camping Bella Sardinia
+itbesa
+500
+1500
+3.3
+Family and kids friendly
+https://www.camping-bellasardinia.com/
+OR (Oristano)
+IT
+40.070740, 8.494731
++++++++++++++++++++++++++++++++++++++
+CAMPING VILLAGE GARDEN PARADISO
+Camping Village Garden Paradiso
+itgapa
+908
+2724
+15
+https://www.gardenparadiso.it/ita/
+Family and kids friendly
+VE (Venezia)
+IT
+45.477436, 12.563864
++++++++++++++++++++++++++++++++++++++
+CAMPING WIRTHSHOF
+Camping Wirthshof
+dewirt
+328
+984
+10
+-well maintained campsite
+-good sanitary
+-sauna
+-animation and activities
+-eco camping
+
+-outdated hotel infrastructure
+-wifi extremely poor connection
+Glamping
+https://www.wirthshof.de/
+Markdorf
+DE
+47.715209774070466, 9.408963776907264
+9.5-26.10
++++++++++++++++++++++++++++++++++++++
+GERN CAMPINGHOF SALEM
+Gern Campinghof Salem
+desale
+123
+369
+2
+-archaic looking but modern inside
+-extensive faciities including sauna and dog showers
+-nearby the lake Constance
+-castle complex
+-clean and well maintained
+-eco camping
+
+Glamping
+https://www.campinghof-salem.de/en/
+Salem
+DE
+47.770164, 9.308539
+All year
++++++++++++++++++++++++++++++++++++++
+CAMPING SEEWIESE
+Camping Seewiese
+deseew
+188
+564
+1.9
+-quiet
+-lakeside
+-near town
+-shaded
+-eco camping
+
+-sanitary installations are found wanting
+-expensive
+-no activities
+-numerous staff complaints
+Small camps
+https://camping-illmensee.de/
+Illmensee
+DE
+47.86083750241083, 9.374386802790152
+Unknown
++++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ SCHAHENHORN
+CampingPlatz Schahenhorn
+descha
+195
+585
+2.6
+-quiet
+-affordable
+-lakeside
+-eco camping
+
+-no grocery store
+-pitches stacked together
+-cant choose pitch
+-cleanliness complaints
+-numerous staff complaints
+Other
+https://camping-schachenhorn.de/
+Bodman-Ludwigshafen
+DE
+47.817208, 9.038017
+1.4 - 10-10
+++++++++++++++++++++++++++++++++++++
+CAMPINGGARTEN WAHLWIES
+Campinggarten Wahlwies
+dewahl
+75
+225
+1.3
+-friendly staff
+-spacious pitches
+-new sanitary installation
+-dog friendly
+-showers without coin
+-lake is 10 km from the camp
+-eco camping
+
+-noisy due to closeby traintrack
+-short reception working hours
+-terrible website
+Small camps
+http://www.camping-wahlwies.de/index.html
+Stockach
+DE
+47.808644, 8.969857
+all year except 1.11-21.12
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ KLAUSENHORN
+Campingplatz Klausenhorn
+deklau
+259
+777
+3.8
+-clean
+-new sanitary
+-dog friendly
+-near lake Constance but no direct entry
+-eco camping
+
+-noisy
+-no store nearby
+-poor bread delivery service (long queues and quickly sold out)
+-pitches close together
+Family friendly
+https://www.camping-klausenhorn.de/
+Konstanz
+DE
+47.746175762883446, 9.147577408996266
+1 April - 15 October
+++++++++++++++++++++++++++++++++++++
+NATURCAMPINGPLATZ LITZELSTETTEN-MAINAU
+Naturcampingplatz Litzelstetten-Mainau
+delima
+22
+66
+4
+-lakeside
+-private beach
+-sanitary rebuilt and clean
+-free tickets for public transport
+-eco camping
+
+-overcrowded
+-staff complaints
+-expensive
+Family and kids friendly
+https://www.naturcamping-mainau.de/
+Konstanz
+DE
+47.71153878000224, 9.180883693398522
+1 April - 15 October
+++++++++++++++++++++++++++++++++++++
+CAMPING RUDERBAUM
+Camping Ruderbaum
+chrude
+334
+1002
+?
+-Clean sanitary
+-bakery and breakfast
+-lakeside
+-affordable
+-beach
+-eco camping
+
+-parking on the road not near tent
+-pitch terrain is gravel
+-noisy
+-internet connection unstable
+In nature / beach
+https://www.ruderbaum.ch/english_home.html
+Altnau
+CH
+47.622497, 9.265510
+unknown
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ HEGNE
+Campingplatz Hegne
+dehegn
+179
+537
+2.2
+-modern sanitary facilities
+-lakeside
+-restaurant
+-nearby train station
+-young people orientated
+-eco camping
+
+-crowded
+-pitches close together
+-small pitches
+-noisy
+-parking problems
+Other
+https://camping-hegne.de/
+Allensbach
+DE
+47.70366317631584, 9.097341327829572
+15.3 - 15.10
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ SANDSEELE
+Campingplatz Sandseele
+desase
+177
+531
+3
+-lakeside
+-beach
+-beach bar
+-restaurant
+-clean sanitary
+-free wifi
+-playgrounds
+-breakfast service
+-eco camping
+
+-paid showers
+-no shade
+-costly
+-dirty beach
+-no dogs allowed
+Family and kids friendly
+https://sandseele.de/
+Reichenau
+DE
+47.698766, 9.045085
+16.3 - 17.10
+++++++++++++++++++++++++++++++++++++
+CAMPINGAMSEE - CAMPINGPLATZ ALLENSBACH
+CampingAmSee - Campingplatz Allensbach
+deabac
+201
+603
+5.8
+-restaurant
+-good sanitary
+-playground
+-lakeside
+-eco camping
+
+-pitches nearby oneanother
+-beach is public
+-terrain is difficult for tents
+-noisy
+In nature / beach
+http://campingamsee.com/
+Allensbach
+DE
+47.71077943903706, 9.079340280852723
+15.3 - 15.10
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ KREUZHOF
+Campingplatz Kreuzhof
+dekreu
+125
+375
+2
+-clean
+-good sanitary
+-indoor pool
+-sauna
+-restaurant/bar
+-playgrounds
+-eco camping
+
+-poor wifi connection
+-outdated power boxes
+-muddy terrain when it s raining
+Glamping
+http://www.camping-kreuzhof.de/
+Lenzkirch
+DE
+47.86168293628824, 8.224289876329953
+All year
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ BANKENHOF
+Campingplatz Bankenhof
+debank
+240
+720
+3.5
+-affordable
+-new sanitary installations
+-360 photos
+-restaurant
+-wellness
+-winner of 2nd place award among regional camps
+-eco camping
+
+-gravel terrain
+-relatively far from the lake
+-poor wifi connection
+Glamping
+https://www.camping-bankenhof.de/unser-platz/banki-camping-bankenhof-titisee.html
+MAP: https://www.camping-bankenhof.de/images/platzplan-lage-camping-bankenhof-titisee.jpg
+MAP QUALITY GOOD
+Hinterzarten
+DE
+47.88587507534535, 8.130657038855135
+undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPING KIRCHZARTEN KG
+Camping Kirchzarten
+dekirc
+504
+1512
+6.3
+-Market and restaurant
+-modern sanitary
+-pool
+-activities
+-dog friendly
+-dog showers
+-eco camping
+
+-very stacked pitches
+-expensive
+Glamping
+https://camping-kirchzarten.de/
+MAP https://camping-kirchzarten.de/eip/pages/campingplatz.php
+MAP QUALITY OK
+Kirchzarten
+DE
+47.958893, 7.951109
+15 May - Mid October
+++++++++++++++++++++++++++++++++++++
+BUSSES CAMPING AM MOSELPARK
+Busses Camping am Möslepark
+demose
+89
+267
+0.7
+-good sanitary
+-sauna
+-playgrounds
+-restaurant
+-good prices
+-free internet
+-eco camping
+
+-pitches very close together
+-poor wifi reception
+-power cables too far apart (obligatory electricity surcharge)
+Glamping
+https://camping-freiburg.com/
+Freiburg im Breisgau
+DE
+47.981498178258704, 7.881378702877252
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+HIRZBERG-CAMPING
+Hirzberg-Camping
+dehirz
+86
+258
+1.2
+-well maintained
+-helpful staff
+-restaurant
+-modern facilities
+
+-crowded
+-high prices
+-small pitches
+-poor website
+Family and kids friendly
+https://www.freiburg-camping.de/
+Freiburg im Breisgau
+DE
+47.99212833015283, 7.8738729578687146
+All year
+++++++++++++++++++++++++++++++++++++
+CAMPING SULZBACHTAL
+Camping Sulzbachtal
+desulz
+113
+339
+2.8
+-near bus stop
+-helpful staff
+-clean sanitary
+-wellness
+-luxurious bungalows
+
+-despite adhereing to modern standards the sanitary infrastructure is very small
+-expensive paid wifi
+-terrain maintenance complaints (Uneven roads, dirt and gravel)
+-near main road, loud
+Glamping
+https://camping-sulzbachtal.de/mietwohnwagen/
+Sulzburg
+DE
+47.84802027541393, 7.698320876601622
+All year
+++++++++++++++++++++++++++++++++++++
+KUR ERLEBNIS CAMPINGPLATZ LUG INS LAND
+Kur Erlebnis Campingplatz Lug ins Land
+delugl
+360
+1080
+11
+-pool
+-restaurant
+-breakfast service
+-grocery store
+-clean
+-sport facilities
+-teenage/young adult focused
+-Modern sanitary
+
+-small pool for the size of the camp
+-small pitches
+-not focused on kids and families
+Sport and activities
+https://www.camping-luginsland.de/
+Bad Bellingen
+DE
+47.71210334277955, 7.547077261799411
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPING LINDENHOF
+Camping Lindenhof
+chlind
+51
+153
+1
+-clean
+-lake nearby
+-city nearby
+-lots of shade
+-large pitches
+-children`s playground
+-good sanitary
+
+
+-no wifi (only available around sanitary area)
+-high prices
+-noisy
+Glamping
+https://www.camping-lindenhof.ch/
+Sutz-Lattrigen
+CH
+47.093111395938024, 7.210341768846954
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPING TAMARO
+Camping Tamaro
+chtama
+410
+1230
+5
+-restaurant
+-grocery store
+-pool
+-beach
+-children playground
+-barbecue area
+-clean
+-well maintained
+
+-expensive
+-small pitches
+-staff complaints
+Glamping
+https://campingtamaro.ch/de/
+MAP QUALITY GOOD
+MAP LINK: https://media.xptcdn.net/tamaro/assets/files/8a-v7hsFL1w.pdf
+Tenero-Contra
+CH
+46.174956, 8.845494
+13 march - 31 october
+++++++++++++++++++++++++++++++++++++
+CAMPING CAMPOFELICE
+Camping Campofelice
+chcfel
+799
+2397
+15
+-Lakeside
+-pool
+-children`s playground
+-restaurant
+-breakfast service
+-grocery store
+
+-no dogs allowed
+-no towels or toilet paper provided
+Glamping
+https://www.campofelice.ch/de/
+MAP QUALITY EXCELLENT
+MAP LINK: https://f.hubspotusercontent10.net/hubfs/5227660/A3%20cartina%20Campofelice%202022.pdf?__hstc=236783838.4d5112a4ca4603d5890efa07eb337f91.1638516885680.1638516885680.1638516885680.1&__hssc=236783838.3.1638516885680&__hsfp=1923840427&hsCtaTracking=3b1333f6-77e9-44b0-90d2-65f8be27bab7%7C606ec8cc-5993-45e0-9a76-8ed47dca179a
+Tenero-Contra
+CH
+46.16858209216013, 8.855740872677206
+3 march - late october
+++++++++++++++++++++++++++++++++++++
+CAMPING SCHWANENPLATZ
+Camping Schwanenplatz
+250
+750
+4
+-lakeside
+-children friendly
+-restaurant
+-breakfast service
+-grocery store
+-clean
+
+-problems with booking
+-no dogs allowed
+Family and kids friendly
+https://www.schwanenplatz.de/
+MAP QUALITY OK
+MAP LINK: https://www.schwanenplatz.de/userfiles/file/Resortmap_2021_HP.pdf
+Waging am See
+DE
+47.936627, 12.761110
+April - Late October
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ AM MARKTLER BADESEE
+Campingplatz am Marktler Badesee
+18
+54
+2
+-animation for kids
+-playground
+-quiet
+-friendly staff
+-riverside
+-affordable
+
+-lots of mosquitoes
+-some pitches are small
+Small camps
+http://www.campingplatz-marktl.de/
+MAP QUALITY POOR
+MAP LINKS: http://www.campingplatz-marktl.de/   http://www.campingplatz-marktl.de/images/50_plan1.gif
+Marktl
+DE
+48.267697, 12.830800
+undisclosed
+++++++++++++++++++++++++++++++++++++
+FREIZEIT - CAMPING - LAIN AM SEE
+Freizeit – Camping – Lain am See
+delain
+516
+1548
+20
+-lots of space
+-good for families with children and dogs
+-lakeside
+-restaurant
+-grocery store
+
+-cleanliness complaints (especially the sanitary block)
+-terrain maintainance complaints
+-noisy (next to main road to Munich airport)
+Family and kids friendly
+https://www.loanerland.de/
+MAP QUALITY POOR
+MAP LINK: https://www.loanerland.de/pdf/Anfahrtskizze_LoanerLand.pdf
+Taufkirchen
+DE
+48.322472, 12.240185
+undisclosed
+++++++++++++++++++++++++++++++++++++
+KUR- UND FERIENCAMPING MAX1
+Kur- und Feriencamping Max 1
+decmax
+192
+576
+3.5
+-pool
+-restaurant
+-breakfast service
+-grocery store
+-affordable
+-quiet
+-very clean sanitary
+
+-focused mostly on retirees
+-not many activities
+Glamping
+https://www.campingmax.de/
+Bad Füssing
+DE
+48.332585, 13.314271
+undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPING HOLMERNHOF
+Camping Holmernhof
+deholm
+162
+486
+3.4
+-family and kids friendly
+-restaurant
+-breakfast service
+-grocery store
+-excellent sanitary
+-good wifi reception
+-friendly staff
+-quiet
+-360 photos
+
+-expensive
+Glamping
+MAP QUALITY GOOD
+MAP LINK: https://docs.google.com/viewerng/viewer?url=http://holmernhof-camping.de/images/PDF/platzeinteilung.pdf
+https://www.holmernhof-camping.de/
+Bad Füssing
+DE
+48.358400415711806, 13.306790793680182
+undisclosed
+++++++++++++++++++++++++++++++++++++
+SEECAMP ROTTAL
+Seecamp Rottal
+derott
+23
+69
+?
+-quiet
+-clean
+-good sanitary
+-well maintained
+
+Great Web
+https://seecamp-rottal.de/
+Pocking
+DE
+48.38380681270536, 13.303777574034747
+undisclosed
+++++++++++++++++++++++++++++++++++++
+KUR- UND FERIENCAMPING HOLMERNHOFS DREIQUELLENBAD
+Kur- und Feriencamping Holmernhofs Dreiquellenbad
+dedrei
+248
+744
+4.5
+-modern infrastructure
+-pool
+-family and kids friendly
+-restaurant
+-breakfast service
+-grocery store
+-thermal baths and saunas
+
+-gravel terrain
+-missing path lighting towards certain pitches
+Glamping
+MAP QUALITY GOOD
+MAP LINK: http://www.camping-bad-griesbach.de/images/PDF/stellplatzplan.pdf
+http://www.camping-bad-griesbach.de/
+Bad Griesbach im Rottal
+DE
+48.42018541480388, 13.192241971606789
+All year
+++++++++++++++++++++++++++++++++++++
+VITAL CAMPING BAYERBACH
+VITAL Camping Bayerbach
+devita
+380
+1140
+12
+-riverside
+-pool
+-restaurant
+-grocery store
+-large pitches
+-well maintained
+-free wifi
+-good sanitary
+-dog friendly
+
+-no activities
+-expensive
+Glamping
+MAP QUALITY GOOD
+MAP LINK: https://www.vitalcamping-bayerbach.de/wp-content/uploads/2020/01/Lageplan_mitAdresse.pdf
+https://www.vitalcamping-bayerbach.de/
+Bayerbach
+DE
+48.415587, 13.129781
+All year
+++++++++++++++++++++++++++++++++++++
+KUR-GUTSHOF-CAMPING ARTERHOF
+Kur-Gutshof-Camping Arterhof
+dearte
+220
+660
+6
+-riverside
+-pool
+-wellness
+-restaurant
+-clean
+-kids and dog friendly
+-quiet
+-clean
+-modern sanitary
+
+-crowded
+-small pitches
+-terrain maintainance complaints
+Glamping
+MAP QUALITY GOOD
+MAP LINK: http://www.arterhof.de/wp-content/uploads/2017/11/Platzplan_2017_Neue-Pl%C3%A4tze_klein.pdf
+https://www.arterhof.de/
+Bad Birnbach
+DE
+48.436668, 13.109387
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ LANDSHUT MITTERWOHR
+Campingplatz Landshut Mitterwöhr
+demitt
+50
+150
+0.7
+-riveride
+-quiet
+-clean
+
+-outdated sanitary
+-no wifi
+-no activities for children
+-no grocery store
+-no delivery service
+-no dogs allowed
+Small camps
+https://www.city-camping-landshut.de/
+Landshut
+DE
+48.554298813008174, 12.180149977321237
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+KNAUS CAMPINGPARK VIECHTACH
+KNAUS Campingpark Viechtach
+deviec
+231
+693
+5
+-pool
+-dog friendly
+-friendly staff
+-lots of activities
+-child friendy
+-grocery store
+
+-short reception working hours
+-some parts of the camp are outdated
+-cleanliness complaints
+Small camps
+https://www.knauscamp.de/
+Viechtach
+DE
+49.08444826848261, 12.853280372603493
+Unknown
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ KRATZMUHLE
+Campingplatz Kratzmühle
+dekrat
+496
+1488
+9.8
+-lake nearby
+-riverside
+-clean
+-quiet
+-helpful staff
+
+-some parts of the camp are outdated (especially sanitaries)
+In nature / beach
+https://kratzmuehle.de/ck
+Kinding
+DE
+49.00375215867312, 11.452371350521414
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPING WALDSEE
+Camping Waldsee
+dewald
+257
+771
+4
+-lakeside
+-playground
+-restaurant
+-clean facilities and sanitary
+-quiet
+
+-no entratainment
+In nature / beach
+https://www.camping-waldsee.de/
+Roth
+DE
+49.1883108365767, 11.124047134454667
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ FRANKISCHE SCHWEIZ
+Campingplatz Fränkische Schweiz
+defrsc
+60
+180
+2
+-large pitches
+-riverside
+-shaded
+-restaurant
+
+-outdated sanitary facilities
+-noisy because it`s close to the highway
+Family and kids friendly
+https://campingplatz-fraenkische-schweiz.de/
+Bavaria
+DE
+49.783184, 11.366565
+Unknown
+++++++++++++++++++++++++++++++++++++
+REISEMOBILHAFEN AUF DER BADEHALBINSEL
+Reisemobilhafen auf der Badehalbinsel
+debade
+150
+450
+?
+-lakeside
+-restaurant
+-large pitches
+-well maintained terrain
+-good sanitary
+
+-noisy
+-sanitary far apart and close at 11
+In nature / beach
+MAP QUALITY GOOD
+MAP LINK: https://www.zv-brombachsee.de/seecamping/platzplan/
+https://www.zv-brombachsee.de/wohnmobil/
+Absberg
+DE
+49.137512, 10.874474
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+SEE CAMPING LANGLAU
+See Camping Langlau
+delang
+439
+1317
+12.4
+-lakeside
+-breakfast service
+-grocery store
+-new modern sanitary
+-affordable
+-clean
+
+-crowded
+-poor wifi
+-not many activities
+-terrain muddy when raining
+Family and children friendly
+MAP QUALITY GOOD
+MAP LINK: https://www.zv-brombachsee.de/seecamping/platzplan/
+https://www.zv-brombachsee.de/
+Pfofeld
+DE
+49.12717700608207, 10.86636516685958
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPING MOHRENHOF
+Camping Mohrenhof
+demohr
+278
+834
+15
+-lakeside
+-restaurant
+-breakfast service
+-grocery store
+-quiet
+-good sanitary
+
+-focused towards older guests
+-Complaints about the staff
+in nature / beach
+MAP QUALITY GOOD
+MAP LINK: https://mohrenhof-franken.de/wp-content/uploads/Lageplan_Mohrenhof_v1.pdf
+https://www.mohrenhof-franken.de/
+Geslau
+DE
+49.345406439766066, 10.321045160307515
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPING SCHWABENMUHLE
+Camping Schwabenmühle
+deschw
+74
+232
+2
+-good sanitary
+-well maintained
+-luxurious
+-clean
+-grocery store
+-good wifi reception
+-campsite library
+
+-some parts of the camp have too much gravel terrain
+Family and kids friendly
+MAP QUALITY OK
+MAP LINK: https://camping-schwabenmuehle.de/wp-content/uploads/2018/04/1_Lageplan_2016-4.png
+https://camping-schwabenmuehle.de/
+Weikersheim
+DE
+49.45788476350422, 9.926735928509988
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+KNAUS CAMPINGPARK FRICKENHAUSEN
+KNAUS Campingpark Frickenhausen
+defric
+203
+609
+3.5
+-well maintained
+-restaurant
+-playground
+-pool
+-clean
+-large pitches
+
+-expensive
+-noisy, close to a main road
+-poor website
+Glamping
+https://www.knauscamp.de/
+Frickenhausen am Main
+DE
+49.669163665266254, 10.074724198522091
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ ESCHERNDORF AM MAIN
+Campingplatz Escherndorf am Main
+deesch
+100
+300
+?
+-riverside (Main)
+-good sanitary
+-lots of shade
+-clean
+-lots of activities
+
+-crowded
+-slow, expensive wifi
+Family and kids friendly
+https://www.campingplatz-mainschleife.de/index.html
+Volkach
+DE
+49.86015169025834, 10.176738603406404
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPINGPARK BREITENAUER SEE
+Campingpark Breitenauer See
+debrei
+612
+1836
+17
+-large pitches
+-well maintained
+-good sanitary
+-childrens playground
+-bread service
+-restaurant
+
+-no store
+-dog restrictions and costly tax for dogs
+-booking problems
+Family and children friendly
+https://www.breitenauer-see.de/index.php?id=4
+Löwenstein
+DE
+49.11704516043422, 9.383433919513891
+Unknown
+++++++++++++++++++++++++++++++++++++
+STROMBERG-CAMPING
+Stromberg-Camping
+destro
+532
+1596
+8.5
+-outdoor pool
+-quiet
+-modern sanitary
+-clean
+-restaurant
+
+-some paths are in need of repair
+-no on site store
+Family and kids friendly
+https://www.strombergcamping.de/index.php/de/
+Knittlingen
+DE
+49.03492329630791, 8.833294220316079
+Unknown
+++++++++++++++++++++++++++++++++++++
+FAMILY - RESORT KLEINENZHOF
+Family - Resort Kleinenzhof
+derkle
+195
+585
+6
+-clean
+-restaurant
+-rent a car service
+-lots of activities (trekking, cycling)
+-sauna
+-pool
+
+-expensive
+-poor wifi reception
+family and kids friendly
+https://www.kleinenzhof.de/
+Bad Wildbad
+DE
+48.73779475068704, 8.576355431285354
+Unknown
+++++++++++++++++++++++++++++++++++++
+CAMPING PARK HAMMELBACH
+Camping Park Hammelbach
+dehamme
+135
+405
+3.1
+-well maintained
+-clean
+-good sanitary
+-almost zero bad reviews among 250 people
+
+-no dogs allowed
+-awful website
+Family and kids friendly
+http://www.camping-hammelbach.de/
+Grasellenbach
+DE
+49.63211460683572, 8.829853968483757
+Unknown
+++++++++++++++++++++++++++++++++++++
+SEECAMPING MAINFLINGEN
+Seecamping Mainflingen
+demain
+354
+1062
+7
+-lakeside
+-modern sanitary
+-clean
+-store nearby
+
+-short reception working hours
+-noisy, main road close by
+Family and kids friendly
+https://camp-booking.de/mainflingen/
+MAP QUALITY POOR
+MAP LINK: https://camp-booking.de/mainflingen/img/Img31-908903f4.png
+Mainhausen
+DE
+50.022938, 9.021219
+24 05 - 10 10
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ DREIEICH-OFFENTHAL
+Campingplatz Dreieich-Offenthal
+dedrei
+107
+321
+3.2
+-large pitches
+-lots of shade
+-clean
+-pool
+
+-some infrastructures are outdated
+-coin operated showers
+-lack of soap dispensers in sanitary blocks
+Family and kids friendly
+https://www.campingplatz-dreieich.de/
+MAP QUALITY OK
+MAP LINK: https://www.campingplatz-dreieich.de/wp-content/uploads/2018/03/campingplatz-karte-dina4-de-1.pdf
+Dreieich
+DE
+49.985757, 8.757680
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+Campingplatz Mörfelden
+CAMPINGPLATZ MORFELDEN
+demorf
+200
+600
+5
+-clean
+-restaurant
+-affordable
+
+-expensive
+-noisy (highway and planes)
+-staff complaints
+Family and kids friendly
+https://www.campingplatz-moerfelden.de/
+MAP NONE
+Mörfelden-Walldorf
+DE
+49.97969228948213, 8.594362313546517
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+NIBELUNGEN-CAMPING AM SCHWIMMBAD
+Nibelungen-Camping am Schwimmbad
+denibe
+138
+414
+5
+-clean
+-well maintained terrain
+-good sanitary block
+-store nearby
+-shade
+-pool
+
+-poor wifi reception
+-short reception working hours
+-expensive
+-no dogs allowed
+Family and kids friendly
+https://www.camping-fuerth.de/
+MAP NONE
+Fürth
+DE
+49.659471920124375, 8.783790073856613
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+HOHENCAMPING KONIGSKANZEL
+Höhencamping Königskanzel
+154
+462
+4.5
+-good sanitary facilities
+-restaurant
+-clean
+-pool
+-children`s playground
+
+-expensive
+-the restaurant offer is scarce
+-the pool is small and not heated
+Family and kids friendly
+MAP QUALITY GOOD
+MAP LINK: https://camping-koenigskanzel.de/content/1-der-campingplatz/4-lageplan/lageplan.pdf
+https://camping-koenigskanzel.de/
+Dornstetten
+DE
+48.479927, 8.500028
+1.3 - 6.1(next year)  Closed during the period 7.11-26.12
+++++++++++++++++++++++++++++++++++++
+Natur-Camping Langenwald
+NATUR-CAMPING LANGENWALD
+delang
+127
+381
+2
+-pool
+-restaurant
+-store
+-friendly staff
+-zero bad reviews among 570 reviews
+Family and kids friendly
+MAP NONE
+https://camping-langenwald.de/en/welcome/
+Freudenstadt
+DE
+48.458589, 8.373094
+8.4 - 6.11
+++++++++++++++++++++++++++++++++++++
+CAMPING ALPIRSBACH
+Camping Alpirsbach
+dealpi
+101
+303
+1.2
+-clean
+-good sanitary
+-helpful staff
+-quiet
+-lots of activities
+-stream at the campsite
+-handout beer at arrival
+Small camps
+MAP NONE
+https://camping-alpirsbach.de/en/business-template-en
+Alpirsbach
+DE
+48.356547, 8.412371
+All year
+++++++++++++++++++++++++++++++++++++
+CAMPING-FREIZEITZENTRUM SAGMUHLE
+Camping-Freizeitzentrum Sägmühle
+desagm
+302
+906
+10
+-lakeside
+-quiet
+-restaurant
+-playground
+-grocery store
+
+-staff complaints
+-some structures are outdated
+-expensive
+-sanitary complaints
+In nature beach
+MAP NONE
+https://www.saegmuehle.de/
+All year except 24.12 - 1.1
+++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ GANSEDELL
+Campingplatz Gänsedell
+degans
+101
+303
+3
+-quiet
+-large pitches
+-affordable
+-morning bread delivery
+
+-Staff complaints
+-Owner complaints
+-somewhat outdated
+Family and kids friendly
+https://www.camping-otterberg.de/
+MAP QUALITY ABYSMAL
+MAP LINK: https://www.camping-otterberg.de/wp-content/uploads/wanderkarte.gif
+Otterberg
+DE
+49.512015, 7.782724
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPING AM KONIGSBERG
+Camping am Königsberg
+dekoni
+110
+330
+3.8
+-quiet
+-restaurant
+-outdoor activities
+-friendly staff
+-playground
+-good wifi
+
+-expensive
+-complaints about sanitary block dirtyness
+-some infrastructures are outdated
+Family and kids friendly
+https://www.campingwolfstein.de/de/index.php
+Wolfstein
+DE
+49.580256322516554, 7.6186264060294935
+Undisclosed
+++++++++++++++++++++++++++++++++++++
+CAMPINGPARK LINDELGRUND
+Campingpark Lindelgrund
+delind
+216
+648
+9
+-clean
+-modern sanitary
+-helpful staff
+-large pitches
+-playground
+-quiet
+-restaurant
+-affordable
+
+-difficult accessing the location
+-often crowded
+Family and kids friendly
+MAP QUALITY GOOD
+MAP LINK: https://www.lindelgrund.de/images/campsite_lindelgrund_map.jpg
+https://www.lindelgrund.de/en/
+Guldental
+DE
+49.88377202182747, 7.857083665164073
+Undisclosed
++++++++++++++++++++++++++++++++++++
+CAMPING UND MOBILHEIMPARK AM MUHLENTEICH
+Camping und Mobilheimpark Am Mühlenteich
+demobi
+-pool
+-dog friendly
+-restaurant
+-bread delivery
+-grocery store
+-good wifi reception
+-good maintenance
+-lakeside
+
+-staff complaints
+-sanitary block is somewhat outdated 
+Glamping
+MAP QUALITY EXCELLENT
+MAP LINK: https://www.muehlenteich.de/de/ (at the very bottom)
+https://www.muehlenteich.de/de/#
+Lingerhahn
+DE
+50.098569323247304, 7.571558567230004
+Undisclosed
++++++++++++++++++++++++++++++++++++
+CAMPINGPARK ZELL-MOSEL
+Campingpark Zell-Mosel
+dezell
+78
+234
+1.5
+-restaurant
+-dog friendly
+-breakfast service
+-store
+-riverside (Mosel)
+-free WLAN
+
+-poor internet reception
+-low number of toilets
+Family and kids friendly
+MAP QUALITY GOOD
+MAP LINK: https://www.campingpark-zell.de/wp-content/uploads/2021/04/platzplan_campingpark_2020_deutsch.pdf
+https://www.campingpark-zell.de/
+Zell (Mosel)
+DE
+50.033518, 7.174849
+All year
++++++++++++++++++++++++++++++++++++
+CAMPING-PARK LAHNBOGEN
+Camping-Park Lahnbogen
+delahn
+204
+612
+?
+-quiet
+-affordable
+-riverside
+-dog friendly
+-restaurant
+in nature / beach
+MAP NONE
+https://www.camping-lahnbogen.de/index.html
+Lahnstein
+DE
+50.309219, 7.641050
+Undisclosed
++++++++++++++++++++++++++++++++++++
+NATUR-CAMPING & JUGENDHUTTENDORF VULKANEIFEL
+Natur-Camping & Jugendhüttendorf Vulkaneifel
+devulk
+115
+345
+4
+-quiet
+-dog friendly
+-bread delivery
+-store
+-friendly staff
+-clean sanitary
+-sports field
+
+-small pitches
+-only low number of shared only showers on the entire camp
+Family and kids friendly
+MAP NONE
+http://www.feriendorf-vulkaneifel.de/
+Manderscheid
+DE
+50.09610161062077, 6.79980145409145
+Summer only 1 July - 7 August
++++++++++++++++++++++++++++++++++++
+CAMPINGPLATZ ODERSBACH
+Campingplatz Odersbach
+deoder
+308
+924
+6
+-pool
+-dog friendly
+-store
+-bread delivery
+-clean
+-riverside (Lahn)
+
+-outdated sanitary block
+-expensive
+In nature / Beach
+MAP QUALITY GOOD
+MAP LINK: https://www.camping-odersbach.de/wp-content/uploads/Lageplan-2021.pdf
+https://camping-odersbach.de/
+Weilburg
+DE
+50.475906527009116, 8.237984666896537
+15/03 - Mid-October
++++++++++++++++++++++++++++++++++++
+CAMPING PARK WEIHERHOF AM SEE
+Camping Park Weiherhof am See
+deweih
+406
+1218
+10
+-lakeside
+-dog friendly
+-restaurant
+-store
+-animation for children
+-various activities
+
+-somewhat outdated sanitary
+-poor wifi coverage
+Family and kids friendly
+MAP QUALITY GOOD
+MAP LINK: https://www.camping-park-weiherhof.de/unser-platz/platzplan/
+https://www.camping-park-weiherhof.de/
+Seck
+DE
+50.587860806160535, 8.035416971134222
+Undisclosed
++++++++++++++++++++++++++++++++++++
+camping im eichenwald
+Camping im Eichenwald
+deeich
+317
+951
+10
+-1

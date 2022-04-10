@@ -1,0 +1,60 @@
+{% extends "base/base.html" %}
+
+
+{% load wagtailcore_tags wagtailimages_tags %}
+
+{% block content %}
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="static\css\parallax.css">
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+    <img src="\static\banner\1.png" alt="Bg" class="bg1">
+    <img src="\static\banner\2.png" alt="Bg2" class="bg2">
+    <img src="\static\banner\3.png" alt="Bg3" class="bg3">
+    <img src="\static\banner\4.png" alt="Bg4" class="bg4">
+    <img src="\static\banner\5.png" alt="Bg5" class="bg5">
+    <h1 class="title">Welcome!</h1>
+    </header>
+    <section class="h1 text-center text-danger">WARNING: THIS PAGE ISN'T SUITABLE FOR MINORS! 18+ ONLY!</section>
+    <section class="h3">
+      Greetings! I'm Diabolical Jinx, the artist behind this website. This site was created to mainly host a Devilman inspired fan-webcomic I've been making since 2019, but I will post my other work on here as well. I hope you enjoy your stay!<br><br>
+      <br>
+      OMENS: <br>
+      The webcomic ''Omens'' is based around my Devilman Alternative Universe story.<br> I've been inspired to make my own story in this comic/animation format, because I wanted to explore and express my artistic skills as well as make myself work on a longer project. <br>The story is entirely made up by me, though it is greatly inspired by various Devilman and non-Devilman related stuff. You don't need to know the story of Devilman in order to understand what's going on, but I HIGHLY recommend reading the manga and/or watching the various animated adaptations that have been released.<br><br>
+      SYNOPSIS: <br>
+      The story follows Lucifer, a mischievous angel that has fallen onto primordial Earth after being exiled out of Paradise by his own creator.<br> After managing to convince an injured demon named Amon not to eat him, they set off to defeat a tyrannical Demon Lord named Xenon, who has successfully overtaken most of the planet and tried to erase all signs of the ancient rules and rituals demons lived by until he came into power.<br>
+      The story gets quite gorey and gruesome after chapter 3, and in the later chapters there is also depiction of drug use and various sexual activity, so take this as your warning.
+      </section>
+  </div>
+  <div class="container">
+    <h1>Latest Chapters {{latest_context}}</h1>
+    <div class="card-group my-5 mx-5">
+    {% for post in latest_chapters %}
+        <div class="card">
+            <div>
+                <!-- {{ post.custom_title }} -->
+                <br>
+                {% image post.chapter_image fill-250x250 as chapter_img %}
+                <a href ="{{ post.url }}">
+                <img src="{{ chapter_img.url }}" alt="{{ chapter_img.alt }}"></a>
+                <br>
+                <a href="{{ post.url }}">Read chapter {{ post.custom_title }}</a>
+            </div>
+        </div>
+    
+    {% endfor %}
+</div>
+</div>
+</body>
+
+{% for block in page.content %}
+{% include_block block %}
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,5 @@
+discern tiered photos
+allocate photos for imgupload
+++create tiered folders
+++create tier doc txt
+imgupload

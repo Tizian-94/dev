@@ -1,0 +1,99 @@
+
+<div class="container">
+	<div class="row">
+		<div class="MultiCarousel" data-items="1,3,5,6" data-slide="1" id="MultiCarousel"  data-interval="1000">
+            <div class="MultiCarousel-inner">
+                <div class="item">
+                    <div class="pad15">
+                        <p class="lead"><img src="https://cmstwaprod.blob.core.windows.net/media/blog/VHWB3G_Cover.jpg" class="img-fluid"></p>
+                        <p>Dobar dan, dobrodošli u naš kamp! Kako Vam ...</p>
+                        <p><a href="/blog/VHWB3G/" class="btn cm-btn-primary">Read Now</a></p>
+                    </div>
+                </div>
+                <div class="item">
+                  <div class="pad15">
+                      <p class="lead"><img src="https://cmstwaprod.blob.core.windows.net/media/blog/FNEW39_cover_photo.jpg" class="img-fluid"></p>
+                      <p>Camping through Reading: 8 Books to...</p>
+                      <p><a href="/blog/FNEW39/" class="btn cm-btn-primary">Read Now</a></p>
+                  </div>
+              </div>
+              <div class="item">
+                <div class="pad15">
+                    <p class="lead"><img src="https://cmstwaprod.blob.core.windows.net/media/blog/TYAWEB-cover.jpg" class="img-fluid"></p>
+                    <p>New camp owners – Stand out!</p>
+                    <p><a href="/blog/TYAWEB/" class="btn cm-btn-primary">Read Now</a></p>
+                </div>
+            </div>
+                <div class="item">
+                    <div class="pad15">
+                        <p class="lead"><img src="https://cmstwaprod.blob.core.windows.net/media/blog/LL6CL9-cover.jpg" class="img-fluid"></p>
+                        <p>Camp Story – Partner Camp Diana</p>
+                        <p><a href="/blog/LL6CL9/" class="btn cm-btn-primary">Read Now</a></p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pad15">
+                        <p class="lead"> <img src="https://cmstwaprod.blob.core.windows.net/media/blog/4GXTP6-cover.jpg" class="img-fluid"></p>
+                        <p>A modern digital nomad owns a camper?</p>
+                        <p><a href="/blog/4GXTP6/" class="btn cm-btn-primary">Read Now</a></p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pad15">
+                        <p class="lead"><img src="https://cmstwaprod.blob.core.windows.net/media/blog/9ALEV9-cover.jpg" class="img-fluid"></p>
+                        <p>Our TOP 8  Pieces of Camping Equipment</p>
+                        <p><a href="/blog/9ALEV9/" class="btn cm-btn-primary">Read Now</a></p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pad15">
+                        <p class="lead"> <img src="https://cmstwaprod.blob.core.windows.net/media/blog/AA2W2N-cover.jpg" class="img-fluid"></p>
+                        <p>Camp Kovačine</p>
+                        <p><br></p>
+                        <p><a href="/blog/AA2W2N/" class="btn cm-btn-primary">Read Now</a></p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pad15">
+                        <p class="lead"><img src="https://cmstwaprod.blob.core.windows.net/media/blog/46HEXM-cover.jpg" class="img-fluid"></p>
+                        <p>How to be a rockstar receptionist</p>
+                        <p><a href="/blog/46HEXM/" class="btn cm-btn-primary">Read Now</a></p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pad15">
+                        <p class="lead"><img src="https://cmstwaprod.blob.core.windows.net/media/blog/food-01.jpg" class="img-fluid"></p>
+                        <p>Camping 101: Cooking</p>
+                        <p><br><p>
+                        <p><a href="/blog/E33EVF/" class="btn cm-btn-primary">Read Now</a></p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pad15">
+                        <p class="lead"><img src="https://cmstwaprod.blob.core.windows.net/media/camp/hrglav-logo.jpg" class="img-fluid"></p>
+                        <p>Story – Partner Camp Glavotok</p>
+                        <p><a href="/blog/2X63CA/" class="btn cm-btn-primary">Read Now</a></p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pad15">
+                        <p class="lead"><img src="https://cmstwaprod.blob.core.windows.net/media/camp/hrslam-logo.jpg" class="img-fluid"></p>
+                        <p>Story – Partner Camp Slamni</p>
+                        <p><a href="/blog/A9EVYP/" class="btn cm-btn-primary">Read Now</a></p>
+                    </div>
+                </div>
+            </div>
+            <button class="btn btn-primary leftLst"><</button>
+            <button class="btn btn-primary rightLst">></button>
+        </div>
+	</div>
+	<div class="row">
+	    <div class="col-md-12 text-center">
+	        <br/><br/><br/>
+	        <hr/>
+	        <p>Settings</p>
+	        <p>Change data items for xs,sm,md and lg display items respectively. Ex:data-items="1,3,5,6"</p>
+	        <p>Change data slide for slides per click Ex:data-slide="1"</p>
+	    </div>
+	</div>
+</div>

@@ -1,0 +1,5 @@
+ask for photos
+discern tiers
+create imgupload folder and tiers
+allocate photos
+imgupload

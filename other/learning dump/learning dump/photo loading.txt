@@ -1,0 +1,163 @@
+#setup needed to run like in Django - to read and save from db
+#------------------------------------------------------------------------------------------
+import sys
+import os
+import django
+import csv
+
+
+
+wd = os.getcwd()
+wd = wd + '\\'
+#print(wd)
+sys.path.append(wd)
+os.environ['DJANGO_SETTINGS_MODULE'] = 'tools.settings'
+django.setup()
+#------------------------------------------------------------------------------------------
+
+import PIL.Image
+import piexif
+from map.models import Image, Camp
+from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient, __version__
+from io import BytesIO #required for reduce file size save
+
+import uuid
+from django.conf import settings
+from pathlib import Path
+
+print('django setup complete')
+print('\n' + '#'*50 + '\n      ##### 360 Photo Processing Script #####\n' + '#'*50 + '\n')
+
+
+
+#############################################################
+############# specify camp to be processed ##################
+
+camp = "hrrehu"
+
+#############################################################
+#############################################################
+
+
+
+
+
+# folder specifications
+folder_path = "\\\\stepri\\data\\sphere\\camp\\" + camp + "\\"
+image_path = folder_path + "\\publish\\"
+
+
+
+
+# get all image file names for each processing
+jpg_file = {}
+
+for n, file in enumerate(os.listdir(image_path)):
+    if file[-3:] == 'JPG':
+        parts = str(file).split('-')
+        #print(len(parts))
+        jpg_file.update({parts[len(parts)-1]:file})
+        #print(jpg_file)
+
+camp_object = Camp.objects.get(code=camp)
+# https://stackoverflow.com/questions/53543549/change-exif-data-on-jpeg-without-altering-picture
+with open(folder_path + camp + '-360-data.csv', 'r', encoding='utf-8-sig') as csv_file:
+    csv_data = csv.DictReader(csv_file, delimiter=',')
+
+    # loop thorugh each image, process, upload and add to db map_image
+    for n, i in enumerate(csv_data, 1):
+        #if n > 1: continue # skip all above
+        #if n < 228: continue # skip all below
+        if i['capture'] == 0 or i['capture'] == '0': continue # if no mage has been capturd then skip
+
+        match = False
+        try: # check to see if an existing sphere image is found for the feature
+            image_object = Image.objects.get(camp=camp, fuid=i['fuid'], sphere=True)
+            print('fuid and sphere match found for this feature, do not add another')
+            match = True
+            continue
+        except:
+            print('no fuid and sphere match found, add sphere to this feature')
+        print(n,i['survey'] + '-' + i['filename'])
+        # check JPG metadata
+        print(image_path + i['survey'] + '-' + i['filename'])
+        file_name_sphere = str(uuid.uuid4())
+        file_size = os.path.getsize(image_path + jpg_file[i['filename']])
+        
+        try:
+            img = PIL.Image.open(image_path + jpg_file[i['filename']])
+            print('FIle opened')
+            #exif_data = piexif.load(image_path + jpg_file[i['filename']])
+            #print('exif data retrieved')
+        except:
+            print('File not found in directory', i['filename'])
+            continue
+    
+        # create small file version
+        file_format = img.format
+        width, height = img.size
+        #print(file_format)
+        thumbnail_io = BytesIO()
+        thumbnail_size = settings.THUMBNAIL_SIZE_SPHERE
+        img.thumbnail(thumbnail_size)
+        img.save(thumbnail_io, file_format)
+        blob = BlobClient.from_connection_string(settings.AZURE_MEDIA_CONNECTION_STRING, container_name="media", blob_name="sph-l/" + file_name_sphere + '.' + file_format)
+        blob.upload_blob(thumbnail_io.getvalue(), content_type='image/jpeg', overwrite=True)
+
+    
+        with open(image_path + jpg_file[i['filename']], "rb") as data:
+            print('opened image')
+            blob = BlobClient.from_connection_string(settings.AZURE_MEDIA_CONNECTION_STRING, container_name="media", blob_name="sph/" + file_name_sphere + '.' + file_format)
+            blob.upload_blob(data, content_type='image/jpeg', overwrite=True)
+            print('blob complete')
+
+        # add record to Image and load data
+        # need to check if there is an existing sphere, if yes then replace it
+        
+        if i['layer'] == 3 or i['layer'] == "3": # this is a poi image, assign layer 0 and create new fuid
+            image_fuid = uuid.uuid4()
+            image_layer = 0
+        else:
+            image_fuid = i['fuid']
+            image_layer = i['layer']
+
+        image_location_data = {
+            'coordinates_gps':{'EPSG':4326, 'values':i['coordinates_gps']},
+            'coordinates_map':{'EPSG':3857, 'values':i['coordinates_map']},
+            'location_accuracy':{'xy':i['location_accuracy']}
+        }
+        image_metadata = {
+            'survey':i['survey']
+        }
+        
+    
+        if match == False:
+            new_image_object = Image(
+                camp=camp_object,
+                layer=image_layer,
+                sub_layer=0,
+                fuid=image_fuid,
+                image_file = str('sph/' + file_name_sphere + '.' + file_format),
+                image_file_thumbnail = str('sph-l/' + file_name_sphere + '.' + file_format),
+                filename = file_name_sphere,
+                file_format = file_format,
+                filename_original = i['filename'],
+                file_size = file_size,
+                width = width,
+                height = height,
+                datetime_taken = i['datetime_taken_text'],
+                author=i['author'],
+                name='',
+                description='',
+                primary=False,
+                sphere=True,
+                location_data=image_location_data,
+                metadata=image_metadata,
+                shared=False,
+                created_user=os.getenv('username') + "_sphere_upload_script",
+                last_edited_user=os.getenv('username') + "_sphere_upload_script",
+            )
+            new_image_object.save()
+            #total_image_records +=1
+
+print('Script Complete')

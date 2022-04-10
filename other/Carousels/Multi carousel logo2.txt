@@ -1,0 +1,75 @@
+<!--Multi carousel logos start-->
+
+<div id="Carousel3">
+  <div class="container text-center my-3">
+      <div class="row mx-auto my-auto justify-content-center">
+          <div id="recipeCarousel" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-inner" role="listbox">
+                  <div class="carousel-item active">
+                      <div class="col-md-3">
+                          <div class="card">
+                              <div class="card-img">
+                                <a href="/hromis/" target="_blank"><img class="w-75"  src="{{MEDIA}}camp/hromis-logo-black-formatted.svg"></a>
+                              </div>
+                              <div class="card-text"></div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="carousel-item">
+                      <div class="col-md-3">
+                          <div class="card">
+                              <div class="card-img">
+                                <a href="/hroliv/" target="_blank"> <img class="w-75" src="{{MEDIA}}camp/hroliv-logo-black-formatted.svg"></a>
+                              </div>
+                              <div class="card-text"></div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="carousel-item">
+                      <div class="col-md-3">
+                          <div class="card">
+                              <div class="card-img">
+                                <a href="/hrmonp/" target="_blank"><img class="w-75"src="{{MEDIA}}camp/hrmonp-logo-black-formatted.svg"></a>
+                              </div>
+                              <div class="card-text"></div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="carousel-item">
+                      <div class="col-md-3">
+                          <div class="card">
+                              <div class="card-img">
+                                <a href="/hrpapa/" target="_blank"><img class="w-75"  src="{{MEDIA}}camp/hrpapa-logo-black-formatted.svg"></a>
+                              </div>
+                              <div class="card-text"></a></div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="carousel-item">
+                      <div class="col-md-3">
+                          <div class="card">
+                              <div class="card-img">
+                                <a href="/hromis/" target="_blank"><img class="w-75"  src="{{MEDIA}}camp/hromis-logo-black-formatted.svg"></a>
+                              </div>
+                              <div class="card-text"></div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="carousel-item">
+                      <div class="col-md-3">
+                          <div class="card">
+                              <div class="card-img">
+                                <a href="/hroliv/" target="_blank"> <img class="w-75" src="{{MEDIA}}camp/hroliv-logo-black-formatted.svg"></a>
+                              </div>
+                              <div class="card-text"></div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <h5 class="py-5 fw-light"> </h5>
+  </div>
+  </div>
+
+  <!-- Multi carousel logos end-->

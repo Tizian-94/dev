@@ -1,0 +1,86 @@
+<div id="Carousel2" class="carousel  carousel-dark slide" data-bs-ride="carousel">
+<div class="container text-center my-3">
+    <h2 class="text-center display-6 fw-bold text-dark text-center pt-5 mb-3">Check out some of our camping blogs!</h2>
+    <div class="row mx-auto my-auto justify-content-center">
+        <div id="recipeCarousel2" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-img">
+                                <img src="https://cmstwaprod.blob.core.windows.net/media/blog/VHWB3G_Cover.jpg" class="img-fluid">
+                            </div>
+                            <div class="card-text">Dobar dan, dobrodošli u naš kamp...
+                            <br><a href="/blog/VHWB3G/" class="btn cm-btn-primary col-sm-4 my-1">Read Now</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-img">
+                                <img src="https://cmstwaprod.blob.core.windows.net/media/blog/FNEW39_cover_photo.jpg" class="img-fluid">
+                            </div>
+                            <div class="card-text">Camping through Reading: 8 Books to...
+                            <br><a href="/blog/FNEW39/" class="btn cm-btn-primary col-sm-4 my-1">Read Now</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-img">
+                                <img src="https://cmstwaprod.blob.core.windows.net/media/blog/TYAWEB-cover.jpg" class="img-fluid">
+                            </div>
+                            <div class="card-text">New camp owners – Stand out!
+                            <br><a href="/blog/TYAWEB/" class="btn cm-btn-primary col-sm-4 my-1">Read Now</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-img">
+                                <img src="https://cmstwaprod.blob.core.windows.net/media/blog/LL6CL9-cover.jpg" class="img-fluid">
+                            </div>
+                            <div class="card-text">Camp Story – Partner Camp Diana
+                            <br><a href="/blog/LL6CL9/" class="btn cm-btn-primary col-sm-4 my-1">Read Now</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-img">
+                                <img src="https://cmstwaprod.blob.core.windows.net/media/blog/4GXTP6-cover.jpg" class="img-fluid">
+                            </div>
+                            <div class="card-text">A modern digital nomad owns a camper?
+                            <br><a href="/blog/4GXTP6/" class="btn cm-btn-primary col-sm-4 my-1">Read Now</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-img">
+                                <img src="https://cmstwaprod.blob.core.windows.net/media/blog/9ALEV9-cover.jpg" class="img-fluid">
+                            </div>
+                            <div class="card-text">Our TOP 8  Pieces of Camping Equipment
+                            <br><a href="/blog/9ALEV9/" class="btn cm-btn-primary col-sm-4 my-1">Read Now</a></div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <a class="carousel-control-prev bg-transparent w-aut" href="#recipeCarousel2" role="button" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            </a>
+            <a class="carousel-control-next bg-transparent w-aut" href="#recipeCarousel2" role="button" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            </a>
+        </div>
+    </div>
+    <h5 class="mt-2 fw-light">Visit our Blog page for more!</h5>
+</div>
+</div>
+

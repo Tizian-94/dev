@@ -1,0 +1,4 @@
+ask for photos
+ask to determine tiers
+create tiered folders
+imgupload

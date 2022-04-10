@@ -1,0 +1,27 @@
+{% extends "base/base.html" %}
+
+{% load wagtailimages_tags wagtailroutablepage_tags %}
+
+{% block content %}
+
+<a href="{% routablepageurl page 'latest_chapter' %}">View latest posts only</a>
+
+<div class="container">
+    <div class="card-group my-5 mx-5">
+    {% for post in posts %}
+        <div class="card">
+            <div>
+                <!-- {{ post.custom_title }} -->
+                <br>
+                {% image post.chapter_image fill-250x250 as chapter_img %}
+                <a href ="{{ post.url }}">
+                <img src="{{ chapter_img.url }}" alt="{{ chapter_img.alt }}"></a>
+                <br>
+                <a href="{{ post.url }}">Read chapter {{ post.custom_title }}</a>
+            </div>
+        </div>
+    
+    {% endfor %}
+</div>
+</div>
+{% endblock content %}

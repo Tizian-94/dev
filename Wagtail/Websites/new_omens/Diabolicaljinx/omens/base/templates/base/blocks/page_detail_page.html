@@ -1,0 +1,53 @@
+{% extends "base/base.html" %}
+
+{% load wagtailimages_tags wagtailcore_tags %}
+
+
+{% block content %}
+    {% image self.chapter_image fill-4800x1200 as banner %}
+    <img src="{{ banner.url }}" alt="{{ banner.alt }}" style="width: 100%; height: 15rem;">
+
+    <div class="container mt-5 mb-5">
+        <div class="text-center">
+            <h1>{{ self.custom_title }}</h1>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                {% for block in self.content %}
+                    {% include_block block %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+<!-- Carousel Begin-->
+    <div class="container">
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" data-bs-interval="false">
+        <div class="carousel-inner">
+            {% for loop_cycle in self.carousel_page_image.all %}
+            {% image loop_cycle.page_image fill-2480x3508 as img %}
+                <div class="carousel-item{% if forloop.counter == 1 %} active{% endif %}">
+                    <img src="{{ img.url }}" class="d-block w-100" alt="...">
+                </div>
+            {% endfor %}
+        </div>
+        <button id="scrollToTopBtn1" class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button id="scrollToTopBtn2" class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+        <!-- Carousel End-->
+      <div>
+          <p>
+              {% for img.url in self.carousel_page_image.all %}
+              <p>{{ img.name }}</p>
+              {% endfor %}
+          </p>
+      </div>
+{% endblock %}

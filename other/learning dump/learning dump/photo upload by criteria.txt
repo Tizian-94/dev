@@ -1,0 +1,179 @@
+##########################################################################################
+########## 1. load images for a camp based on tier                            ############
+##########                                                                    ############
+##########                                                                    ############
+##########                                                                    ############
+################################ Input parameters ########################################
+
+folder_path = "\\\\stepri\\proj\\camp_image_uploader\\"
+camp = ''
+layer_name = 'pitch'
+
+##########################################################################################
+
+
+#setup needed to run like in Django - to read and save from db
+#------------------------------------------------------------------------------------------
+import sys
+import os
+import django
+
+
+wd = os.getcwd()
+wd = wd + '\\'
+#print(wd)
+sys.path.append(wd)
+os.environ['DJANGO_SETTINGS_MODULE'] = 'tools.settings'
+django.setup()
+#------------------------------------------------------------------------------------------
+
+print('django setup complete')
+import time
+
+
+from map.models import Pitch, Image, Camp
+from map.functions import get_layer_id
+from django.conf import settings #to access settings variables
+
+from PIL import Image as pil_image # andling images and image metadata
+from io import BytesIO #required for reduce file size save
+from django.core.files.base import ContentFile # required to save file with query object from bytes
+from django.core.files.images import ImageFile 
+import uuid
+
+camp_object = Camp.objects.get(code=camp)
+
+print('Camp: ', camp, 'Layer: ', layer_name)
+
+qc_image_type = ['.jpg', '.jpeg', '.png']
+
+image_folder_path = folder_path + camp + '\\'
+layer = get_layer_id(layer_name)
+total_images = 0
+total_images_uploaded = 0
+total_image_records = 0
+
+
+#check_camp = ctypes.windll.user32.MessageBoxW(0, "Your selected camp is: " + camp, "Pitch Image Uploader", 1)
+check_camp = False # simple switch to check camp object without running script
+if check_camp: 
+    print('Script Terminated')
+    quit()
+
+tier_object = Pitch.objects.filter(camp=camp)
+tiers = {}
+for tier in tier_object:
+    cur_tier = int(tier.tier)
+    try:
+        existing_tier = tiers[cur_tier]['n']
+        new_tier = existing_tier + 1
+        tiers[cur_tier].update({'n':new_tier})
+        tiers[cur_tier]['records'].update({tier.fuid:{}})
+    except:
+        tiers.update({cur_tier:{'n':1, 'records':{tier.fuid:{}}}})
+
+del tier
+
+for tier in tiers:
+    path = image_folder_path + str(tier)
+    #print('tier', tier, 'path:', path)
+    
+    tier_object = Pitch.objects.filter(camp=camp, tier=tier)
+    try:
+        images = os.listdir(path)
+    except:
+        print('not found, continue')
+        continue
+    #if tier == 1: print(images)
+
+    # clean images to remove non images e.g. 'thumbs.db'
+    for i in images:
+        image_path = path + '\\' + i
+        path_filename, file_extension = os.path.splitext(image_path)
+        match = False
+        for j in qc_image_type:
+            if file_extension == j:
+                match = True
+                break
+        if match == False: 
+            images.remove(i)
+    print('tier', tier, 'number of images:', len(images))
+
+    for image in images:
+        #print('tier:', tier, 'processing:', image)
+        total_images += 1
+        #image_object = Image()
+        image_path = path + '\\' + image
+        image_file_object = open(image_path, "rb")
+        
+        #capture basic metadata
+        new_filename = str(uuid.uuid4())
+        file_name = image
+        file_size = os.path.getsize(image_path)
+        img = pil_image.open(image_path)
+        width, height = img.size
+        file_format = img.format  
+
+        #print(new_filename)
+        
+        # if possible extract date time taken
+        try:
+            str_image_datetime = img.getexif()[36867]
+            image_datetime = time.strptime(str_image_datetime,"%Y:%m:%d %H:%M:%S")
+            formated_image_datetime = time.strftime("%Y-%m-%d %H:%M:%S", image_datetime)
+            formated_image_datetime_tz = formated_image_datetime + '+00'
+        except:
+            formated_image_datetime_tz = None
+            pass
+            #print('NO DATA FOR datetime taken')
+        
+        # create small file version
+        thumbnail_io = BytesIO()
+        thumbnail_size = settings.THUMBNAIL_SIZE
+        img.thumbnail(thumbnail_size)
+        img.save(thumbnail_io, file_format)
+    
+            
+        for n, pitch in enumerate(tier_object, 1):
+            #if n == 3: break
+            #print(n, pitch.camp_id)
+            feature_metadata = {'camp_id':pitch.camp_id}
+            # check if there is an existing primary image for a fuid, if yes return False, if no, return True.
+            primary = True
+            if Image.objects.filter(camp=camp, fuid=pitch.fuid, primary=True).exists(): primary = False
+            image_object = Image(
+                camp=camp_object,
+                fuid=pitch.fuid,
+                layer=layer,
+                filename_original = file_name,
+                filename = new_filename,
+                file_format = file_format,
+                file_size = file_size,
+                width = width,
+                height = height,
+                datetime_taken = formated_image_datetime_tz,
+                image_file = str('img/' + new_filename + '.' + file_format),
+                image_file_thumbnail = str('thumb/' + new_filename + '.' + file_format),
+                metadata=feature_metadata,
+                shared=True,
+                primary=primary,
+                created_user='load_images_by_tier.py',
+                last_edited_user='load_images_by_tier.py',
+            )
+            image_object.save()
+            total_image_records +=1
+
+            #prep to save image thumbnail to disk, save only 1 copy
+            if n == 1:
+                image_object.image_file.save(None, ImageFile(image_file_object), save=False)
+                time.sleep(1)
+                image_object.image_file_thumbnail.save('thumb/' + new_filename + '.' + file_format , ContentFile(thumbnail_io.getvalue()), save=False)
+                time.sleep(1) # add pause to ensure there is enough time for the images to be saved before the next loop
+                total_images_uploaded += 1
+            
+        
+print('total_images',total_images)
+print('total_images_uploaded', total_images_uploaded)
+print('total_images_records', total_image_records)
+
+print('Script Completed')

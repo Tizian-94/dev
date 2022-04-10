@@ -1,0 +1,44 @@
+http://localhost:8000/blog/author/   live changes
+
+
+
+Azure path: cm01 - Storage Accounts - cmstwaprod - Blob Containers - media/static
+
+procedura otvaranja novih tabova:
+1. tasks.office.com/campmap.com
+
+2. login.microsoft online.com/cm-wa-prod-aad
+
+3. campmap.com/admin   (https://campmap.com/c5ee92d6-e2e8-4d4b-bb32-a3b4190f55c7/blog/post/6/change/)
+
+
+jquery/bootstrap/django
+
+Apps: file explorer: proj
+- teams
+- outlook
+-code
+- azure
+
+Za data research:
+-cmcrm login  https://cmcrm-wa-prod.azurewebsites.net/sales/camps/487/
+-Camping info de: https://www.camping.info/de/auf-karte-suchen?area=-4.118853,47.89214,-3.930204,47.833406&zl=14
+-pincamp de
+-Svasta docx
+
+git diff
+diff.patch
+
+remove trailing spaces vsc
+
+git apply --ignore-space-change --ignore-whitespace diff.patch
+
+Get-Content .\fix.patch | Set-Content -Encoding utf8 fix_utf8.patch
+
+git fsck (za git fatal: failed to read object xxx: Invalid argument)
+
+
+GITHUB TREE CM
+https://github.com/campmap/cm/tree/master
+
+https://github.com/campmap/cm.git

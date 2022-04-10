@@ -1,0 +1,117 @@
+<div class="container-flex cm-bg-blue-light mt-5" style="height: 35rem;">
+  <div class="container">
+    <div class="row py-5">
+      <div class="col-2"></div>
+      <div class="col-8 text-center">
+        <p class="display-5 fw-bold text-dark">The preferred mapping solution for camps across europe</p>
+      </div>
+      <div class="col-2"></div>
+    </div>
+
+<!--Multi carousel logos start-->
+    <div id="Carousel3">
+      <div class="container text-center my-3">
+          <div class="row mx-auto my-auto justify-content-center">
+              <div id="recipeCarousel" class="carousel slide" data-bs-ride="carousel">
+                  <div class="carousel-inner" role="listbox">
+                      <div class="carousel-item active">
+                          <div class="col-md-3">
+                              <div class="card-transparent">
+                                  <div class="card-img">
+                                    <a href="/hromis/" target="_blank"><img class="w-75"  src="{{MEDIA}}camp/hromis-logo-black-formatted.svg"></a>
+                                  </div>
+                                  <div class="card-text"></div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="carousel-item">
+                          <div class="col-md-3">
+                              <div class="card-transparent">
+                                  <div class="card-img">
+                                    <a href="/hroliv/" target="_blank"> <img class="w-75" src="{{MEDIA}}camp/hroliv-logo-black-formatted.svg"></a>
+                                  </div>
+                                  <div class="card-text"></div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="carousel-item">
+                          <div class="col-md-3">
+                              <div class="card-transparent">
+                                  <div class="card-img">
+                                    <a href="/hrmonp/" target="_blank"><img class="w-75"src="{{MEDIA}}camp/hrmonp-logo-black-formatted.svg"></a>
+                                  </div>
+                                  <div class="card-text"></div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="carousel-item">
+                          <div class="col-md-3">
+                              <div class="card-transparent">
+                                  <div class="card-img">
+                                    <a href="/hrpapa/" target="_blank"><img class="w-75"  src="{{MEDIA}}camp/hrpapa-logo-black-formatted.svg"></a>
+                                  </div>
+                                  <div class="card-text"></a></div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="carousel-item">
+                          <div class="col-md-3">
+                              <div class="card-transparent">
+                                  <div class="card-img">
+                                    <a href="/hratea/" target="_blank"><img class="w-75"  src="{{MEDIA}}camp/hratea-logo-black-formatted.svg"></a>
+                                  </div>
+                                  <div class="card-text"></div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="carousel-item">
+                        <div class="col-md-3">
+                            <div class="card-transparent">
+                                <div class="card-img">
+                                  <a href="/hrsimu/" target="_blank"><img class="w-75"  src="{{MEDIA}}camp/hrsimu-logo-black-formatted.svg"></a>
+                                </div>
+                                <div class="card-text"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                      <div class="col-md-3">
+                          <div class="card-transparent">
+                              <div class="card-img">
+                                <a href="/hrvran/" target="_blank"><img class="w-75"  src="{{MEDIA}}camp/hrvran-logo-black-formatted.svg"></a>
+                              </div>
+                              <div class="card-text"></div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="carousel-item">
+                    <div class="col-md-3">
+                        <div class="card-transparent">
+                            <div class="card-img">
+                              <a href="" target="_blank"><img class="w-75"  src="{{MEDIA}}camp/terrapark-logo-black-formatted.svg"></a>
+                            </div>
+                            <div class="card-text"></div>
+                        </div>
+                    </div>
+                </div>
+                      <div class="carousel-item">
+                          <div class="col-md-3">
+                              <div class="card-transparent">
+                                  <div class="card-img">
+                                    <a href="/hrpunt/" target="_blank"> <img class="w-75" src="{{MEDIA}}camp/hrpunt-logo-black-formatted.svg"></a>
+                                  </div>
+                                  <div class="card-text"></div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <h5 class="py-5 fw-light"> </h5>
+      </div>
+      </div>
+<!-- Multi carousel logos end-->
+<div class="row text-center pb-5">
+    </div>
+  </div>
+</div>

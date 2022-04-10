@@ -1,0 +1,37 @@
+import os
+
+print('starting script')
+
+
+#############################################################
+############# specify camp to be processed ##################
+
+camp = 'hrrehu'
+date = '2021-10-14'
+dim = '360-A'
+extra = ''
+
+#############################################################
+#############################################################
+
+
+
+
+# folder specifications
+dir = "\\\\stepri\\data\\sphere\\camp\\" + camp + '\\publish\\'
+
+
+if dir[-1:] != '"\"':
+    dir = dir + '\\'
+print(dir)
+
+for n, file in enumerate(os.listdir(dir)):
+    #print(file[-3:])
+    if file[-3:] == 'JPG':
+        #parts = str(file).split('.')
+        #print(parts)
+        new = camp + '-' + date + '-' + dim + '-' + str(file)
+        print(new)
+        os.rename(dir + file, dir + new)
+
+print('script complete')
